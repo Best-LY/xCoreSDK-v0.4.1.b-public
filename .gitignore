@@ -1,0 +1,15 @@
+cmake-build-*/
+.vs*/
+.idea/
+/example/cpp/myTest.*
+build/
+/.vscode/
+/_rokae_log_/
+**/_rokae_log_/
+**/logs/
+/bin/
+/test
+/rt_fellow.o
+/example/catch_info
+*.o
+*.deb
